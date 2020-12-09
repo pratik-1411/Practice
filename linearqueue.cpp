@@ -31,7 +31,7 @@ void queue::insert(int data)
 {
 	if(!isfull())
 	{
-		arr[++rear]=
+		arr[++rear]
 	
 	}
 	else
